@@ -1,0 +1,5 @@
+F:\C#\Sum Of Digits Algorithm\Sum Of Digits Algorithm\bin\Debug\Sum Of Digits Algorithm.exe.config
+F:\C#\Sum Of Digits Algorithm\Sum Of Digits Algorithm\bin\Debug\Sum Of Digits Algorithm.exe
+F:\C#\Sum Of Digits Algorithm\Sum Of Digits Algorithm\bin\Debug\Sum Of Digits Algorithm.pdb
+F:\C#\Sum Of Digits Algorithm\Sum Of Digits Algorithm\obj\Debug\Sum Of Digits Algorithm.exe
+F:\C#\Sum Of Digits Algorithm\Sum Of Digits Algorithm\obj\Debug\Sum Of Digits Algorithm.pdb
